@@ -1,6 +1,6 @@
 # Awesome Cooking
 
-> Wendy's curated list of online learn to cook resources.
+Wendy's curated list of online learn to cook resources.
 
 ## YouTube Channels
 
