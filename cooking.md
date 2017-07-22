@@ -14,6 +14,7 @@ Wendy's curated list of online learn to cook resources.
 * [Pailin's Kitchen](https://goo.gl/YLPsCr)
 * [Food Busker](https://goo.gl/CCnvEv)
 * [Rosalina's Kitchen](https://goo.gl/4ohDyw)
+* [Everyday Food](https://goo.gl/NhmXYR)
 * [America's Test Kitchen](https://goo.gl/3s5LdG)
 * [Gemma Stafford's Crazy Dough Recipe](https://goo.gl/fxRBF6)
 * [Carol 自在生活](https://goo.gl/aGrYt8)
@@ -26,3 +27,4 @@ Wendy's curated list of online learn to cook resources.
 * [孤身男子的愛戀廚房](http://sam16samtw.pixnet.net/blog)
 * [日本人妻的無限創作](https://blog.icook.tw/authors/375)
 * [蜜塔木拉咖啡](https://goo.gl/9WiJrf)
+* [林姓主婦的家務事](http://okapi.books.com.tw/list/85)
