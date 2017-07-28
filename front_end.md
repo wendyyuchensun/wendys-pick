@@ -1,6 +1,6 @@
 # Awesome Front-end
 
-Wendy's curated list of online learn front-end resources.
+Some online resources that help me massively.
 
 ## YouTube
 
@@ -29,3 +29,12 @@ Wendy's curated list of online learn front-end resources.
 ## Sites
 
 * [Google Web Fundementals](https://developers.google.com/web/)
+* [MDN](https://developer.mozilla.org/en-US/)
+
+## Forums
+
+* [Hacker News](https://news.ycombinator.com/)
+
+## Courses
+
+* [Nand2Tetris](http://nand2tetris.org/)
