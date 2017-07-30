@@ -2,13 +2,16 @@
 
 Some online resources that help me massively.
 
-## YouTube
+## YouTube Channels & Playlists
 
 * [Addy Osmani](https://goo.gl/w7geU8)
 * [Totally Tooling Tips](https://goo.gl/EQaN23)
 * [Supercharged](https://goo.gl/dcKFnw)
 * [Traversy Media](https://goo.gl/exi4bP)
 * [LearnCode.academy](https://goo.gl/Gg7bB4)
+* [JSConf](https://goo.gl/BSaF1C)
+* [Computerphile](https://goo.gl/91MMJW)
+* [Google Chrome Developer](https://goo.gl/9iK7BP)
 
 ## Books
 
@@ -30,6 +33,8 @@ Some online resources that help me massively.
 
 * [Google Web Fundementals](https://developers.google.com/web/)
 * [MDN](https://developer.mozilla.org/en-US/)
+* [HTML5 Rocks](https://www.html5rocks.com/en/)
+* [CSS Tricks](https://css-tricks.com/)
 
 ## Forums
 
