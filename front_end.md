@@ -44,6 +44,11 @@ Some online resources that help me massively.
 
 * [Nand2Tetris](http://nand2tetris.org/)
 
+## Books
+
+* JavaScript: the Complete Guide (D. Flanagan)
+* JavaScript: the Best Part (D. Crockford)
+
 ## Vim
 
 * [Vim Awesome](http://vimawesome.com/)
