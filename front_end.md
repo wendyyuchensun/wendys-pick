@@ -43,3 +43,8 @@ Some online resources that help me massively.
 ## Courses
 
 * [Nand2Tetris](http://nand2tetris.org/)
+
+## Vim
+
+* [Vim Awesome](http://vimawesome.com/)
+* [Vim Tips Wiki](http://vim.wikia.com/wiki/Vim_Tips_Wiki)
