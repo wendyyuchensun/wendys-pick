@@ -28,3 +28,4 @@ Wendy's curated list of online learn to cook resources.
 * [日本人妻的無限創作](https://blog.icook.tw/authors/375)
 * [蜜塔木拉咖啡](https://goo.gl/9WiJrf)
 * [林姓主婦的家務事](http://okapi.books.com.tw/list/85)
+* [蘇發福日記](https://goo.gl/7AzPsi)
